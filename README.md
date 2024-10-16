@@ -8,14 +8,6 @@
 
 ###
 
-
-
-###
-
-<p align="left">💎🖥🃏🔥<br>From : 🇸🇦|🇺🇸<br>Ethical Hacker | Software Engineering 🖥📱<br><br>********************************************<br><br>My crime is that of curiosity</p>
-
-###
-
 <h2 align="left"></h2>
 
 ###
