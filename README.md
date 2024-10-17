@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulmajeed Ali</h1>
 <h3 align="center">MERN Stack Engineer | Specialising in Node.js, TypeScript, and NoSQL Databases</h3>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulalhazemi" alt="abdulalhazemi" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🌱 I’m currently learning **C#**
