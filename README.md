@@ -1,5 +1,6 @@
 <h1 align="left">HI 👋 <br>My name is Abdul....</h1>
 <h2 align="left"><br>MERN Stack Engineer | Specializing in Node.js, TypeScript, and NoSQL Databases</h2>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ###
 
