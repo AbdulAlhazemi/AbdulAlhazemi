@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulmajeed Ali</h1>
 
-<h4 align="center">Full Stack Engineer with a solid foundation in Node.js, Express.js, Next.js, and proficiency in both SQL and NoSQL databases. Experienced in crafting resilient RESTful APIs, enabling seamless communication across applications. My expertise spans the full stack, from developing dynamic front-end interfaces using modern frameworks to building robust back-end systems. I am a self-learner with strong problem-solving skills, continuously staying updated with the latest technological advancements. I am passionate about fostering innovation and driving projects forward to successful completion.</h4>
+<h3 align="center">Full Stack Engineer with a solid foundation in Node.js, Express.js, Next.js, and proficiency in both SQL and NoSQL databases. Experienced in crafting resilient RESTful APIs, enabling seamless communication across applications. My expertise spans the full stack, from developing dynamic front-end interfaces using modern frameworks to building robust back-end systems. I am a self-learner with strong problem-solving skills, continuously staying updated with the latest technological advancements. I am passionate about fostering innovation and driving projects forward to successful completion.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🌱 I’m currently learning **C#**
