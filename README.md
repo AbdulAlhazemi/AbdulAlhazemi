@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 👨‍💻 All of my projects are available at [AbdulAlhazemi.com](AbdulAlhazemi.com)
+- 👨‍💻 All of my projects are available at [my website](AbdulAlhazemi.com)
 
 - 💬 Ask me about **Node.js, React.js, Next.js**
 
 - 📫 How to reach me **abdulmajeedalhazemi@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/abdulmajeed-alhazemi-93b342229/](https://www.linkedin.com/in/abdulmajeed-alhazemi-93b342229/)
+- 📄 Know about my experiences [Linkden profile](https://www.linkedin.com/in/abdulmajeed-alhazemi-93b342229/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
