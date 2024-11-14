@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulmajeed Ali</h1>
 
-<h3 align="center">A passionate Full Stack Engineer with a solid foundation in Node.js, TypeScript, C#, ASP.NET, .NET, NoSQL Databases, IoT, Machine Learning, Cloud Development, and Quantum Computing</h3>
+<h3 align="center">A passionate Software Engineer with a solid foundation in Node.js, TypeScript, C#, ASP.NET, .NET, NoSQL Databases, IoT, Machine Learning, Cloud Development, and Quantum Computing</h3>
 
 <p align="center">I specialize in building <strong>scalable, resilient RESTful APIs</strong> and developing <strong>dynamic, modern front-end interfaces</strong>. I’m a self-learner who loves tackling challenges and staying up-to-date with the latest tech trends. My projects reflect my drive for <strong>innovation</strong> and <strong>problem-solving</strong>, guiding ideas from concept to reality.</p>
 
