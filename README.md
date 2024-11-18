@@ -7,7 +7,7 @@
 
 <p align="center">💡 I believe in writing clean, efficient, and maintainable code. Whether it’s developing user-friendly front-end designs or robust back-end systems, I strive to deliver quality work. Feel free to explore my repositories and reach out for collaborations!</p>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 
 - 🌱 I’m currently learning **C#**
 
