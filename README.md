@@ -1,24 +1,20 @@
 <h1 align="center">Hi 👋, I'm Abdulmajeed Ali</h1>
-
-<h3 align="center">A passionate Software Engineer with a solid foundation in Node.js, TypeScript, C#, ASP.NET, .NET, NoSQL Databases, IoT, Machine Learning, Cloud Development, and Quantum Computing</h3>
-
-<p align="center">I specialize in building <strong>scalable, resilient RESTful APIs</strong> and developing <strong>dynamic, modern front-end interfaces</strong>. I’m a self-learner who loves tackling challenges and staying up-to-date with the latest tech trends. My projects reflect my drive for <strong>innovation</strong> and <strong>problem-solving</strong>, guiding ideas from concept to reality.</p>
-
-
-<p align="center">💡 I believe in writing clean, efficient, and maintainable code. Whether it’s developing user-friendly front-end designs or robust back-end systems, I strive to deliver quality work. Feel free to explore my repositories and reach out for collaborations!</p>
-
-
-
-- 🌱 I’m currently learning **C#**
-
-- 👨‍💻 All of my projects are available at [my website](AbdulAlhazemi.com)
-
-- 💬 Ask me about **Node.js, React.js, Next.js**
-
-- 📫 How to reach me **abdulmajeedalhazemi@gmail.com**
-
-- 📄 Know about my experiences [Linkden profile](https://www.linkedin.com/in/abdulmajeed-alhazemi-93b342229/)
-
+    <h3 align="center">
+        I’m a passionate Software Engineer with a solid background in Node.js, TypeScript, C#, ASP.NET, .NET, NoSQL Databases, IoT, Machine Learning, Cloud Development, and Quantum Computing.
+    </h3>
+    <p>
+        I specialize in crafting scalable, resilient RESTful APIs and building modern, user-centric front-end interfaces. As a dedicated self-learner, I embrace new challenges and constantly update my skills to stay aligned with the latest tech innovations. My projects reflect my commitment to transforming ideas into functional, impactful solutions.
+    </p>
+    <p>
+        💡 I believe in writing clean, efficient, and maintainable code, whether developing intuitive front-end experiences or architecting robust back-end systems. I aim to deliver exceptional quality in every project. Please feel free to explore my repositories and reach out for exciting collaborations!
+    </p>
+    <ul>
+        <li>🌱 I’m currently learning <strong>C#</strong></li>
+        <li>👨‍💻 All of my projects are available at <a href="https://AbdulAlhazemi.com" target="_blank">my website</a></li>
+        <li>💬 Ask me about <strong>Node.js, React.js, Next.js</strong></li>
+        <li>📫 How to reach me: <strong><a href="mailto:abdulmajeedalhazemi@gmail.com">abdulmajeedalhazemi@gmail.com</a></strong></li>
+        <li>📄 Know about my experiences: <a href="https://www.linkedin.com/in/abdulmajeed-alhazemi-93b342229/" target="_blank">LinkedIn profile</a></li>
+    </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abdulalhazemi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdulalhazemi" height="30" width="40" /></a>
