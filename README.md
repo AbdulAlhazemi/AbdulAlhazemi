@@ -1,4 +1,6 @@
-# Hi 👋, I'm Abdulmajeed Ali
+<p align="center">
+  <h1 align="center">Hi 👋, I'm Abdulmajeed Ali</h1>
+</p>
 
 I’m a passionate Software Engineer with a solid background in Node.js, TypeScript, C#, ASP.NET, .NET, NoSQL Databases, IoT, Machine Learning, Cloud Development, and Quantum Computing.
 
