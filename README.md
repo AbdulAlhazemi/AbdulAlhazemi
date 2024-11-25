@@ -53,7 +53,7 @@ I specialize in crafting scalable, resilient RESTful APIs and building modern, u
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAlhazemi&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
----
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/AbdulAlhazemi/count.svg?"  />
