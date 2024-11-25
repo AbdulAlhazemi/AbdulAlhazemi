@@ -39,7 +39,17 @@ I specialize in crafting scalable, resilient RESTful APIs and building modern, u
 <p align="left">📊 GitHub Stats:</p>
 
 ![](https://github-readme-stats.vercel.app/api?username=AbdulAlhazemi&theme=neon&hide_border=false&include_all_commits=true&count_private=true)
+
+</div>
+
+<div align="center">
+  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbdulAlhazemi&theme=neon&hide_border=false)
+
+</div>
+
+<div align="right">
+  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAlhazemi&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
