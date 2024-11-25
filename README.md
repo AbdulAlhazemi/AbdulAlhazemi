@@ -38,24 +38,25 @@ I specialize in crafting scalable, resilient RESTful APIs and building modern, u
 <div align="left">
 <p align="left">📊 GitHub Stats:</p>
 
-![](https://github-readme-stats.vercel.app/api?username=AbdulAlhazemi&theme=neon&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=AbdulAlhazemi&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true)
 
 </div>
 
 <div align="center">
   
-![](https://github-readme-streak-stats.herokuapp.com/?user=AbdulAlhazemi&theme=neon&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AbdulAlhazemi&theme=catppuccin_latte&hide_border=false)
 
 </div>
 
 <div align="right">
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAlhazemi&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAlhazemi&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
-
+---
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/AbdulAlhazemi/count.svg?"  />
 </div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
