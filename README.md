@@ -30,8 +30,6 @@ I specialize in crafting scalable, resilient RESTful APIs and building modern, u
 <div align="left">
 <p align="left">📊 GitHub Stats:</p>
 
-![](https://github-readme-stats.vercel.app/api?username=AbdulAlhazemi&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true)
-
 </div>
 
 <div align="center">
@@ -40,7 +38,7 @@ I specialize in crafting scalable, resilient RESTful APIs and building modern, u
 
 </div>
 
-<div align="right">
+<div align="center">
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAlhazemi&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
