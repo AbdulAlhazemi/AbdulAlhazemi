@@ -2,11 +2,11 @@
   <h1 align="center">Hi 👋, I'm Abdulmajeed Ali</h1>
 </p>
 
-I’m a passionate Software Engineer with a solid background in Node.js, TypeScript, C#, ASP.NET, .NET, NoSQL Databases, IoT, Machine Learning, Cloud Development, and Quantum Computing.
+I’m a passionate Software Engineer and Master’s Student with a solid background in Node.js, TypeScript, C#, ASP.NET, .NET, and NoSQL Databases. My expertise lies in building scalable, high-performance backend systems, crafting resilient RESTful APIs, and designing robust server-side architectures to support modern applications.
 
-I specialize in crafting scalable, resilient RESTful APIs and building modern, user-centric front-end interfaces. As a dedicated self-learner, I embrace new challenges and constantly update my skills to stay aligned with the latest tech innovations. My projects reflect my commitment to transforming ideas into functional, impactful solutions.
+As a dedicated self-learner, I embrace challenges and constantly refine my skills to stay aligned with the latest tech innovations. My projects reflect a commitment to transforming complex ideas into functional and impactful backend solutions.
 
-💡 I believe in writing clean, efficient, and maintainable code, whether developing intuitive front-end experiences or architecting robust back-end systems. I aim to deliver exceptional quality in every project. Please feel free to explore my repositories and reach out for exciting collaborations!
+💡 I believe in writing clean, efficient, and maintainable code while prioritizing scalability, security, and performance. My passion lies in solving challenging problems and driving innovation through backend development and system design.
 
 - 🌱 I’m currently learning **C#**
 - 👨‍💻 All of my projects are available at [my website](https://AbdulAlhazemi.com)
