@@ -2,11 +2,15 @@
   <h1 align="center">Hi 👋, I'm Abdulmajeed Ali</h1>
 </p>
 
-I’m a passionate Software Engineer and Master’s Student with a solid background in Node.js, TypeScript, C#, ASP.NET, .NET, and NoSQL Databases. My expertise lies in building scalable, high-performance backend systems, crafting resilient RESTful APIs, and designing robust server-side architectures to support modern applications.
+I’m a passionate Software Engineer and Postgraduate Student in Computer Science with expertise in Node.js, TypeScript, C#, ASP.NET, .NET, and NoSQL Databases. My core strength lies in developing scalable, high-performance backend systems, crafting resilient RESTful APIs, and architecting robust server-side solutions to power modern applications.
 
-As a dedicated self-learner, I embrace challenges and constantly refine my skills to stay aligned with the latest tech innovations. My projects reflect a commitment to transforming complex ideas into functional and impactful backend solutions.
+In addition to backend development, I am deeply passionate about Web Development, IoT, Cloud Computing, Quantum Computing, and Machine Learning. I thrive on exploring how these cutting-edge fields can integrate with backend systems to drive innovation and solve complex challenges.
 
-💡 I believe in writing clean, efficient, and maintainable code while prioritizing scalability, security, and performance. My passion lies in solving challenging problems and driving innovation through backend development and system design.
+As a self-motivated learner, I continuously expand my technical knowledge to stay at the forefront of technological advancements. My projects demonstrate my ability to transform complex ideas into functional, scalable, and impactful backend solutions.
+
+I believe in writing clean, efficient, and maintainable code, prioritizing scalability, performance, and security. My goal is to deliver exceptional quality in every project and contribute to meaningful technological advancements.
+
+I’m always excited to collaborate on challenging projects that leverage emerging technologies. Feel free to explore my repositories or connect to discuss exciting opportunities!
 
 - 🌱 I’m currently learning **C#**
 - 👨‍💻 All of my projects are available at [my website](https://AbdulAlhazemi.com)
