@@ -12,9 +12,6 @@ I believe in writing clean, efficient, and maintainable code, prioritizing scala
 
 I’m always excited to collaborate on challenging projects that leverage emerging technologies. Feel free to explore my repositories or connect to discuss exciting opportunities!
 
-- 🌱 I’m currently learning **C#**
-- 👨‍💻 All of my projects are available at [my website](https://AbdulAlhazemi.com)
-- 💬 Ask me about **Node.js, React.js, Next.js**
 - 📫 How to reach me: [abdulmajeedalhazemi@gmail.com](mailto:abdulmajeedalhazemi@gmail.com)
 - 📄 Know about my experiences: [LinkedIn profile](https://www.linkedin.com/in/abdulmajeed-alhazemi-93b342229/)
   
